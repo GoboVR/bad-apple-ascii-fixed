@@ -31,7 +31,7 @@ def main():
     output_thread.join()
 
 def play_audio(video):
-    command = ["mpv", "--no-video", "--audio-device=alsa" , f"--speed={speed}", video]
+    command = ["mpv", "--no-video", f"--speed={speed}", video]
     subprocess.run(command, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 
