@@ -1,5 +1,5 @@
 # Fork notice
-This is a fork by me because the og forces ALSA Audio when not all systems use that. (like Bazzite) All credits go the og maker.
+This is a fork by me because the og has some problems.
 
 # Bad Apple For Terminal
 
