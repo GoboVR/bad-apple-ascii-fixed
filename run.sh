@@ -10,7 +10,7 @@ else
   speed=1.0
 fi
 
-mpv --no-video --audio-device=alsa  bad_apple.mp4 > /dev/null 2>&1 &
+mpv --no-video bad_apple.mp4 > /dev/null 2>&1 &
 dir="$SCRIPT_DIR/frames-ascii" 
 
 for filename in $(ls -v "$dir"); do
