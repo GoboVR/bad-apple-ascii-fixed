@@ -1,3 +1,6 @@
+# Fork notice
+This is a fork by me because the og forces ALSA Audio when not all systems use that. (like Bazzite) All credits go the og maker.
+
 # Bad Apple For Terminal
 
 This repository contains a set of scripts to convert the "Bad Apple" video into ASCII art representation and display it on terminal.
