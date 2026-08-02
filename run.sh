@@ -21,7 +21,7 @@ for filename in $(ls -v "$dir"); do
     fi
 
 #    sleep $((0.02 / $speed))
-    sleep 0.024
+    sleep 0.03333
 
 
 done
