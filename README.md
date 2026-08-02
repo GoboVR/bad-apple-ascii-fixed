@@ -36,18 +36,16 @@ sh make-ascii.sh
 
 ### 4. Running the ASCII Art
 
-#### Python
-
-
-```bash
-python3 run.py
-```
-
-#### Bash
-
+#### Bash (RECOMMENDED)
 
 ```bash
 sh run.sh
+```
+
+#### Python
+
+```bash
+python3 run.py
 ```
 
 ## Acknowledgments
