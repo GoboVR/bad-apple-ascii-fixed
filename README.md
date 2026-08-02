@@ -7,17 +7,18 @@ This repository contains a set of scripts to convert the "Bad Apple" video into 
 ![Demo](media/demo.gif)
 ## Dependencies
 
-- [FFmpeg (optional)](https://ffmpeg.org/): convert video to image frames.
+- [FFmpeg](https://ffmpeg.org/): convert video to image frames.
 - [Python](https://www.python.org/) (version 3.x) or bash.
 - [Mpv](https://mpv.io/): A media player play audio background.
-- [Ascii-image-converter (optional)](https://github.com/TheZoraiz/ascii-image-converter): convert image frame to text file.
+- [Ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter): convert image frame to text file.
 
 ## Usage
+Make sure to get the Dependencies!
 
 ### 1. Clone this repo
 
 ```
-git clone https://github.com/GoboVR/bad-apple-ascii-fixed-audio.git
+git clone https://github.com/GoboVR/bad-apple-ascii-fixed.git
 ```
 
 ### 2. CD into the folder
