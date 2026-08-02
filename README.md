@@ -24,7 +24,7 @@ git clone https://github.com/GoboVR/bad-apple-ascii-fixed.git
 ### 2. CD into the folder
 
 ```
-cd bad-apple-ascii-fixed-audio
+cd bad-apple-ascii-fixed
 ```
 
 ### 3. Converting the Video to ASCII Text (optional)
