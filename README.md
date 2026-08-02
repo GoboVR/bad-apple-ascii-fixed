@@ -20,7 +20,13 @@ This repository contains a set of scripts to convert the "Bad Apple" video into 
 git clone https://github.com/GoboVR/bad-apple-ascii-fixed-audio.git
 ```
 
-### 2. Converting the Video to ASCII Text (optional)
+### 2. CD into the folder
+
+```
+cd bad-apple-ascii-fixed-audio
+```
+
+### 3. Converting the Video to ASCII Text (optional)
 
 To convert the "Bad Apple" video (`bad_apple.mp4`) into ASCII art and save it into `frames-ascii` folder, run the following command:
 
@@ -28,7 +34,7 @@ To convert the "Bad Apple" video (`bad_apple.mp4`) into ASCII art and save it in
 sh make-ascii.sh
 ```
 
-### 3. Running the ASCII Art
+### 4. Running the ASCII Art
 
 #### Python
 
