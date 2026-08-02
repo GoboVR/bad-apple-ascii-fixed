@@ -49,6 +49,13 @@ python3 run.py
 sh run.sh
 ```
 
+### HELP the music won't stop playing!
+
+Run this:
+```
+pkill mpv
+```
+
 ## Acknowledgments
 
 Idea from [this video](https://www.youtube.com/watch?v=B49nQu4L2O4)
