@@ -42,7 +42,7 @@ def display_output():
         if os.path.isfile(f):
             with open(f, 'r') as file:
                 print(file.read())
-        sleep(0.024 / speed)
+        sleep(1/30 / speed)
 
 if __name__ == "__main__":
     main()
