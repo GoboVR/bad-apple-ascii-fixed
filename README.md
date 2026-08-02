@@ -36,7 +36,7 @@ sh make-ascii.sh
 
 ### 4. Running the ASCII Art
 
-#### Bash (RECOMMENDED)
+#### Bash
 
 ```bash
 sh run.sh
